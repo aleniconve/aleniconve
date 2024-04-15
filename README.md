@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleniconve&label=Profile%20views&color=0e75b6&style=flat" alt="aleniconve" /> </p>
 
+- 🚗 I finished the Web Development Bootcamp at **Le Wagon**
+
 - 🌱 I’m currently learning **React and Typescript**
 
-- 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
+- 👋 My last project was [**Signary**](https://www.signary.app/), a language reference app, using ASL(American Sign Language).
 
 - 📫 How to reach me **contrerasx@gmail.com**
 
+- 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-contreras-vergara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-contreras-vergara" height="30" width="40" /></a>
