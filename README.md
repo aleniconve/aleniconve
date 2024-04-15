@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.**
+- 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
 
 - 📫 How to reach me **contrerasx@gmail.com**
 
