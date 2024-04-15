@@ -12,7 +12,8 @@
 - 📫 How to reach me **contrerasx@gmail.com**
 
 - 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
-- 
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-contreras-vergara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-contreras-vergara" height="30" width="40" /></a>
