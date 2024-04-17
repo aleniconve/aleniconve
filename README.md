@@ -9,7 +9,7 @@
 
 - 💼 Here you can check my [Portfolio](https://troopl.com/aleniconve)
 
-- 📫 How to reach me **contrerasx@gmail.com**
+- 📫 How to reach me *contrerasx@gmail.com*
 
 - 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
 
