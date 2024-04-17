@@ -7,7 +7,7 @@
 
 - 👋 My last project was [**Signary**](https://www.signary.app/), a language reference app, using ASL(American Sign Language).
 
--💼 Here you can check my [Portfolio](https://troopl.com/aleniconve)
+- 💼 Here you can check my [Portfolio](https://troopl.com/aleniconve)
 
 - 📫 How to reach me **contrerasx@gmail.com**
 
