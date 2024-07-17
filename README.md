@@ -3,7 +3,7 @@
 
 - 🚗 I finished the Web Development Bootcamp at **Le Wagon**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **React and Java**
 
 - 👋 My last project was [**Signary**](https://www.signary.app/), a language reference app, using ASL(American Sign Language).
 
