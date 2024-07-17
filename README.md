@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **anything you want. If I know the answer, good. If I don't, I will try to find it.🤓**
 
+- if you are bored play this little game I created: https://scratch.mit.edu/projects/1045972115/
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
