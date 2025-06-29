@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A chilean programmer🇨🇱, that lives in Germany 🇩🇪and talks in english most of the time🏴󠁧󠁢󠁥󠁮󠁧󠁿.</h3>
+<h3 align="center">A chilean programmer🇨🇱, that lives in Germany 🇩🇪and talks in Denglishñol most of the time🇩🇪🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇱.</h3>
 
 - 🚗 I finished the Web Development Bootcamp at **Le Wagon**
 
